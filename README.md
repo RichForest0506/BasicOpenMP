@@ -1,2 +1,3 @@
 # BasicOpenMP
  
+Simple OpenMP example
